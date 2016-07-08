@@ -31,7 +31,7 @@
   "homepage": "https://github.com/bahmutov/bdd-stdin",
   "devDependencies": {
     "bluebird": "2.9.25",
-    "inquirer": "0.8.3",
+    "inquirer": "^1.1.2",
     "mocha": "2.2.4",
     "pre-git": "0.2.1",
     "really-need": "1.6.3",
